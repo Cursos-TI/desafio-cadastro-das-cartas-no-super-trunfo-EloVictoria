@@ -9,7 +9,7 @@
 int main() {
     
 
-        printf("Desafio  'Super Triunfo'\n");
+        printf("Desafio  'Super Trunfo'\n");
         printf("Cadastro da carta\n");
     
         char letra; //Estado.
